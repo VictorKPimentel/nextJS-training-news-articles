@@ -1,0 +1,30 @@
+# Node.js modules
+node_modules/
+
+# Build outputs
+.next/
+out/
+
+# Environment variables (don't commit sensitive data)
+.env*
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Test & coverage directories
+coverage/
+
+# Temporary/Swap files from IDEs
+*.swp
+*.swo
